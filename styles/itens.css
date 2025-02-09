@@ -1,0 +1,54 @@
+.itens{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin: 45px;
+    padding: 0 30px 50px 5px;
+    font-family: "Poppins", serif;;
+}
+.chinelo1  img{
+    width: 300px;
+    background-color: bisque;
+    border-radius: 10px;    
+    margin: 30px;
+}
+
+.chinelo2 img{
+    width: 300px;
+    background-color: bisque;
+    border-radius: 10px;
+    margin: 30px;
+}
+
+.chinelo3 img{
+    width: 300px;
+    background-color: bisque;
+    border-radius: 10px;
+    margin: 30px;
+}
+
+.chinelo4 img{
+    width: 299px;
+    background-color: bisque;
+    border-radius: 10px;
+    margin: 30px;
+}
+
+
+.itens button{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    width: 300px;
+    margin-left: 30px;
+    border-radius: 7px;
+    color: rgb(5, 8, 8);
+    background-color: goldenrod;
+    transition: 0.5s;
+}
+
+.itens button:hover{
+ background-color: rgba(255, 141, 1, 0.445);
+}

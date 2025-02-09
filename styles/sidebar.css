@@ -1,0 +1,48 @@
+body{
+    background-color: #ffffff;
+}
+
+.sidebar{
+    position:absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    padding: 12px;
+    width: 300px;
+}
+
+.sidebar_nav{
+    background-color:#c0b8b8 ;
+    border-radius: 8px;
+    padding: 16px 0 10 16px;
+}
+
+.logo{
+    background: #121212;
+    display: flex;
+    border-radius: 8px;
+    padding: 8px 11px 30px 8px;
+}
+
+.sidebar_nav .logo img{
+    width: 190px;
+    margin: 30px 0 0 30px;
+}
+
+.sidebar ul{
+    margin-top: -10px 5px;
+    padding: 0 20px 62px 20px;
+}
+
+.sidebar ul li {
+    padding: 16px 20px 0 15px;
+
+}
+
+.sidebar nav ul li a{
+    color: #000000;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 18px;
+    font-family: "DM Sans", sans-serif;
+}

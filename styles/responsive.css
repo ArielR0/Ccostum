@@ -1,0 +1,44 @@
+@media screen and (max-width: 1024px){
+    .sidebar{
+        align-items: center;
+        justify-content: center;
+        padding: 8px;
+        width: 348px;
+        gap: 10;
+    }
+
+    .sidebar_nav{
+        padding: 8px auto;
+    }
+
+    .sidebar_nav .logo img{
+      padding-left: 45px;
+     align-items: center;
+     justify-content: center;
+    }
+    
+    .texts{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        padding: 15px;        
+    }
+
+    .texts .TTL{
+        flex-direction: column;
+        display: block;
+        margin-left: 19px;
+        margin-right: 19px;
+    }
+
+    .texts p{
+        padding: 14px;
+    }
+
+    .itens{
+        padding: 10px;
+        flex-direction: column;
+    }
+
+}
+
