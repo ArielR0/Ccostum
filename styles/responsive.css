@@ -10,6 +10,9 @@
     .sidebar_nav{
         padding: 8px auto;
     }
+    .Container{
+        overflow: hidden;
+    }
 
     .sidebar_nav .logo img{
       padding-left: 45px;
