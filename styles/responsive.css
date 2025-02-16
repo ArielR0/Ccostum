@@ -43,5 +43,10 @@
         flex-direction: column;
     }
 
+    .itens2{
+        padding: 10px;
+        flex-direction: column;
+    }
+
 }
 

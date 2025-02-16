@@ -28,7 +28,24 @@
     font-size: 20px;
 }
 
+
+.itens2 h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+
 .itens span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 700px;
+    margin: 15px;
+}
+
+.itens2 span{
     display: flex;
     justify-content: center;
     align-items: center;
